@@ -43,3 +43,5 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **Private Cloud:** Your own exclusive digital space.
 
 **Hybrid Cloud:** Using both your private space and the shared online space when needed.
+
+Test
